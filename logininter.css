@@ -1,0 +1,102 @@
+
+.login{
+	justify-content: center;
+	margin-top: 50px;
+	display:flex;
+	order:solid;
+	border-radius: 0 5px 5px 0;
+	float: center;
+	height: 72px;
+	width: 180px;
+	cursor: pointer;
+	background-color:#eeee;
+	margin-top: 100px;
+	margin-left: 550px;
+	border-style: dotted;
+	border:solid;
+	border-radius: 5px;
+}
+.SignupContent{
+	display:flex;
+	order:solid;
+	border-radius: 0 15px 15px 0;
+	height: 72px;
+	width: 310px;
+	cursor: pointer;
+	background-color:#eeee;
+	margin-top: 100px;
+	margin-left: 450px;
+	border-style: dotted;
+	border:solid;
+	padding: 8px 20px;
+	border-radius: 5px;
+}
+.home{
+	justify-content: center;
+	font-size: 24px;
+	height: 68px;
+	width: 140px;
+	padding: 8px 20px;
+	background-color:#eeee;
+	border-radius: 0 5px 5px 0;
+	float: center;
+	cursor: pointer;
+	margin-top: 100px;
+	margin-left: 70px;
+	border-style: dotted;
+	border:solid;
+	border-radius: 10px;
+}
+.customer
+{
+	justify-content: center;
+	font-size: 24px;
+	display: inline-flex;
+	height: 72px;
+	width: 280px;
+	padding: 8px 20px;
+	background-color:#eeee;
+	border-radius: 0 5px 5px 0;
+	float: center;
+	cursor: pointer;
+	margin-top: 100px;
+	margin-left: 150px;
+	border-style: dotted;
+	border:solid;
+	border-radius: 10px;
+}
+.manager
+{
+	justify-content: center;
+	font-size: 24px;
+	display: inline-flex;
+	height: 72px;
+	width: 280px;
+	padding: 8px 20px;
+	background-color:#eeee;
+	border-radius: 0 5px 5px 0;
+	float: center;
+	cursor: pointer;
+	margin-top: 100px;
+	margin-left: 350px;
+	border-style: dotted;
+	border:solid;
+	border-radius: 10px;
+}
+.trans{
+	justify-content: center;
+	font-size: 24px;
+	display: inline-flex;
+	height: 72px;
+	width: 280px;
+	padding: 18px 10px;
+	background-color:#eeee;
+	border-radius: 0 5px 5px 0;
+	float: center;
+	cursor: pointer;
+	margin-top: 100px;
+	margin-left: 00px;
+	border-style: dotted;
+	border:solid;
+	border-radius: 10px;
+}

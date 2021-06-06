@@ -1,0 +1,167 @@
+
+    .contain {
+        display: flex;
+        justify-content: center;
+        margin-top: 100px;
+    }
+    .head{
+        margin-top: 100px;
+        margin-left: 430px;
+        
+        color: white;
+
+    }
+    #capt {
+        width: 170px;
+        height: 72px;
+        font-size: 37px;
+        background-color: black;
+        padding: 5px;
+        border: none;
+        letter-spacing: 1px;
+        float: left;
+        color: #E9E91D;
+        border-radius: 5px 0 0 5px;
+    }
+    #refresh {
+        float: left;
+        background-color: black;
+        height: 82px;
+        border-radius: 0 5px 5px 0;
+    }
+    #refresh img {
+        margin-top: 20px;
+        cursor: pointer;
+    }
+    #textinput {
+        width: 170px;
+        height: 70px;
+        font-size: 37px;
+        background-color: #252521;
+        border: none;
+        margin-left: 10px;
+        border-radius: 5px;
+        padding: 5px;
+        color: #D58A1E;
+    }
+    .contain button {
+        padding: 8px 20px;
+        height: 35px;
+        cursor: pointer;
+        border: none;
+        border-radius: 5px;
+        margin-left: 10px;
+        margin-top: 25px;
+        background-color: #764D11;
+        color: #CED4F0;
+        transition: .5s;
+    }
+    .contain button:hover {
+        background-color: #976216;
+    }
+
+.Box h1{
+    color :orange;
+    margin-top: 80px;
+    margin-left: 330px;
+    font-size: 50px;
+}
+.Box input[type="text"]{
+    border:0;
+    background:black;
+    display: grid;
+    margin:20px auto;
+    text-align: center;
+    border: 2px solid #8a9ff2;
+    padding: 24px 20px;
+    width: 250px;
+    outline:none;
+    color: orange;
+    border-radius: 24px;
+    transition:0.25s;
+    font-size:20px;
+}
+.Box input[type="text"]:focus ,.Box input[type="password"]:,.Box input[type="email"]:focus {
+    width:400px;
+    border :2px solid #57d49b;
+    color:#57d49b;
+    font:bold;
+}
+
+.Box input[type="submit"]{
+    border:0;
+    background:none;
+    display: block;
+    margin:20px auto;
+    text-align: center;
+    border: 2px solid #8a9ff2;
+    padding: 14px 10px;
+    width: 200px;
+    outline:none;
+    color: #8a9ff2;
+    border-radius: 24px;
+    transition:0.25s;
+    font-size:20px;
+}
+.Box input[type="submit"]:hover{
+    width:250px;
+    border :2px solid #78ffc1;
+    background-color:#78ffc1;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 30px;
+}
+.Box  .select{
+    border:0;
+    background:none;
+    display: block;
+    margin:20px auto;
+    text-align: center;
+    border: 2px solid #8a9ff2;
+    padding: 14px 10px;
+    width: 250px;
+    outline:none;
+    color: #8a9ff2;
+    border-radius: 24px;
+    transition:0.25s;
+    font-size:30px;
+
+}
+body {
+        background-color: #bdc3c7;
+    }
+    
+    .container {
+        position: absolute;
+        height: 140px;
+        width: 200px;
+        background-color: #40739e;
+        left: 50%;
+        top: 80%;
+        transform: translate(-50%, -50%);
+        padding: 20px 10px;
+        box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.35);
+    }
+    
+    .container #input_val {
+        height: 32px;
+        width: 140px;
+        font-size: 22px;
+        font-weight: bold;
+    }
+    
+    .container #btn {
+        height: 40px;
+        width: 120px;
+        color: white;
+        font-size: 20px;
+        background-color: #487eb0;
+        cursor: pointer;
+        border: 1px solid white;
+    }
+    
+    .container #operation {
+        font-size: 22px;
+        font-weight: bold;
+        color: white;
+    }

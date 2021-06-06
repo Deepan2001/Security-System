@@ -1,0 +1,14 @@
+.body{
+    position: absolute;
+    background-color: #baddff ;
+    width: 1000%;
+    height: 1000%;
+}
+.main{
+	font-size: 20px;
+	font-style: inherit;
+	background-color: #eeee;
+	position: center;
+	padding-top: 50px;
+	padding-left: 50px;
+}
